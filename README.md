@@ -19,6 +19,7 @@ Ders Bilgileri:
 <li> 12.Hafta - PHP ile ajax kullanımı </li>
 <li> 13.Hafta - Web uygulama güvenliği, Hosting ve Domain </li>
 <li> 14.Hafta - Proje Sunumları </li>
+<li> 14.Hafta - Proje Sunumları </li>
 
 ## Haftalık ders konuları içerisinde anlatımı gerçekleştirilen komutlar Öğr. Gör. Çisem YAŞAR tarafından oluşturulmuştur.
 

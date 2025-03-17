@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "1",
+        "adi": "Nutuk",
+        "yazari":"Mustafa Kemal Atatürk"
+    }, 
+    
+    {
+        "ID": "2",
+        "adi": "Tebeşir Tozu",
+        "yazari":"Sezer Ortadağ"
+    },
+    
+    {
+        "ID": "3",
+        "adi": "Simyacı",
+        "yazari":"Paulo Coelho"
+    },
+    
+    {
+        "ID": "4",
+        "adi": "Küçük Prens",
+        "yazari":"Antoine de Saint-Exupery"
+    }
+]
+    
